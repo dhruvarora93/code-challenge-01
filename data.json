@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Help register citizens to vote",
+    "votes": 3
+  },
+  {
+    "id": 2,
+    "name": "Promote recycling in residential areas",
+    "votes": 2
+  },
+  {
+    "id": 3,
+    "name": "Organize a car wash and donate the profits to charity",
+    "votes": 5
+  }
+]
